@@ -1,0 +1,28 @@
+.a { 
+    position: static; 
+    color: rgb(12, 2, 3);
+    top: 800px; 
+    left: 400px;
+} 
+/*encabezado*/
+header{
+    background-color: rgb(206, 5, 5);
+    text-align: center;
+    padding: 20px 0;
+    box-shadow: 0 4px 8px rgb(0,0,0,0 0.2);
+}
+    
+p { 
+    width: 100%; 
+    color: rgb(19, 17, 18); 
+    border: dotted;
+}
+
+.ejemplo{
+    text-align: center;
+    border: solid;
+}
+ body{
+    background-color: rgb(129, 203, 238);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
